@@ -1,0 +1,4 @@
+account_id   = 1234567
+user_api_key = "NRAK-REPLACE_ME"
+insert_key   = "REPLACE_ME_INGEST_LICENSE_KEY"
+region       = "US"
